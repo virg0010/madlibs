@@ -143,6 +143,17 @@ ${littlePigs.noun}. One day they decided to leave to build their own
 ${littlePigs.pluralNouns[1]}.`)
 ```
 
+## Rubric
+
+| Task | Points |
+| ---  | :---:  | 
+| Completes all tasks for Little Red Riding Hood Part 1 | 3 |
+| Completes all tasks for Little Red Riding Hood Part 2  | 2 |
+| Completes all tasks for Snow White Part 1  | 3 |
+| Completes all tasks for Snow White Part 2  | 2 |
+| **Total** | **10** | 
+
+
 ## Submission
 When the project is completed, follow the steps below to submit for grading:
 
