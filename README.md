@@ -12,7 +12,8 @@ For this exercise, you will be demonstrating your understanding of objects, arra
 The following requirements must be met in order to complete the assignment successfully:
 
 1. Clone this repository from GitHub. **Aside from this README file, there are NO starter files for this project.** 
-2. Follow the instructions below to create 2 versions of Little Red Riding Hood and 2 versions of Snow White. **There will be 4 stories in total.**
+2. Create a `index.html` file and a `script.js` file. The `index.html` file should contain a standard HTML5 structure and should add `script.js` using the `<script></script>` tag.
+3. Follow the instructions below to create 2 versions of Little Red Riding Hood and 2 versions of Snow White. **There will be 4 stories in total.**
 
 ### Little Red Riding Hood
 
