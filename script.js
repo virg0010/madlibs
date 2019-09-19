@@ -36,8 +36,7 @@ littleRed.nouns[2] = 'raincoats'
 littleRed.exclamation = 'ballsacks!'
 littleRed.verbs[1] = 'distill'
 
-console.log(`One day, Little ${littleRed.colour} Riding Hood was going through the forest carrying a 
-basket of ${littleRed.nouns[0]} for her grandmother. Suddenly, she met a big 
+console.log(`One day, Little ${littleRed.colour} Riding Hood was going through the forest carrying a basket of ${littleRed.nouns[0]} for her grandmother. Suddenly, she met a big 
 ${littleRed.adjective} wolf.
 
 "${littleRed.exclamation}" said the wolf. "Where are you going little ${littleRed.silly}?"
